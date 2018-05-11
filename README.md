@@ -8,7 +8,9 @@ Movie Prediction Algorithm and Dataset
 * There were initially many features which was then reduced using the domain knowledge finally only 9 features was taken into consideration, the filtered and processed data is saved in the after csv.csv file.  
 * All the models are pickled in the models folder.  
 ## Results
-* Error=0
+
+* Error= 0
+
 | Model  	            | Accuracy (%) 	|  
 |--------------------	|--------------	|  
 | K Nearest Neighbours| 37.52       	|  
